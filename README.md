@@ -1,6 +1,6 @@
 # ML
 
-# Regression
+# Linear Regression
 This technique is used to predict the real valued output or near-real valued output, on a given data set. On this technique we analyze the trend in the given data set and predict the values accordingly.
 
 [![Linear-Regression](http://www.biostathandbook.com/pix/regressionlollipop.gif)](#features)
@@ -24,3 +24,10 @@ We have to calculate values m,b; So that our Error function can be minimum:
 Gradient Descent at a point gives the tangent to curve we are traversing. It gives us the direction whether to traverse up or down.
 [![Gradient-Descent](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)](#features)
 
+
+# Learning Rate
+Learning Rate is used to determine how fast to learn. The Learning Rate cannot be too high and can not be too low, we have to choose according to the given data set.
+
+
+# Special Thanks
+  Siraj Raval and Andrew Ng for this awesome content. -XOXO
