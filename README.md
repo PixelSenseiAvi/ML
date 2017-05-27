@@ -1,7 +1,7 @@
 # ML
 
 # Linear Regression
-This technique is used to predict the real valued output or near-real valued output, on a given data set. On this technique we analyze the trend in the given data set and predict the values accordingly.
+This technique is used to predict the real valued output or near-real valued output, on a given data set. In this technique we analyze the trend in the given data set and predict the values accordingly.
 
 [![Linear-Regression](http://www.biostathandbook.com/pix/regressionlollipop.gif)](#features)
 
