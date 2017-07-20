@@ -1,7 +1,7 @@
 # ML
 
 # Linear Regression
-This technique is used to predict the real valued output or near-real valued output, on a given data set. In this technique we analyze the trend in the given data set and predict the values accordingly.
+This technique is used to predict the real valued output or near-real valued output, on a given data set. In this technique the trend is analysed in prior data set and predict the values accordingly.
 
 [![Linear-Regression](http://www.biostathandbook.com/pix/regressionlollipop.gif)](#features)
 
@@ -12,7 +12,7 @@ The General Equation of a line is:
   Y=mx+c
   
   
-Our objective is to minimize the distance between two; for this we calculate
+Our objective is to minimize the distance between two; for this calculate
 # Error Function
   This gives the mean square distance of the data-sets values( Dots on above graph) and predicted values(line). This is given by:
   [![Error-function](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png)](#features)
@@ -30,4 +30,4 @@ Learning Rate is used to determine how fast to learn. The Learning Rate cannot b
 
 
 # Special Thanks
-  Siraj Raval and Andrew Ng for this awesome content. -XOXO
+  Siraj Raval and Andrew Ng for awesome teaching. -XOXO
