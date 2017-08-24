@@ -29,5 +29,23 @@ Gradient Descent at a point gives the tangent to curve we are traversing. It giv
 Learning Rate is used to determine how fast to learn. The Learning Rate cannot be too high and can not be too low, we have to choose according to the given data set.
 
 
+
+# Spam Classifier
+This Classification is based on Bayes Theorm (reference: ML for hackers). The text is extracted from all the e-mails and occurances, probability is calculated in each type of Corpuse (easy ham , Hard ham, Spam).
+
+# File Descriptions
+All emails are in text format
+easyham - The messages which can be easily classified as ham(not spam).
+hardham - The messages which can not be easily classified as ham(not spam).
+spam - The messages which can be easily classified as spam.
+The probability of each keyword is calculated and tested against spam classifier.
+
+Extract each message texts and compare against the obtained values.
+
+This model got the following accuracy: Spam : 73% hardham : 93% ham : 98%
+
+
 # Special Thanks
   Siraj Raval and Andrew Ng for awesome teaching. -XOXO
+  
+  
